@@ -1,0 +1,7 @@
+# Ignore the sites folder
+/.idea/
+/sites/
+
+# Ignore the generated files
+/hosts
+/sites.txt
