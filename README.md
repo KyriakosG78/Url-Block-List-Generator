@@ -26,7 +26,7 @@ To use Url Block List Generator, simply follow these steps:
 
 The generated files can be used to block access to the specified sites on your computer.
 
-![(https://res.cloudinary.com/dn8tmtools78/image/upload/v1679192135/Projects/UrlBlockListGenerator/3.jpg)
+![](https://res.cloudinary.com/dn8tmtools78/image/upload/v1679192135/Projects/UrlBlockListGenerator/3.jpg)
 
 ---
 ## Modem-Routers
@@ -34,6 +34,8 @@ The generated files can be used to block access to the specified sites on your c
 1. Router like FRITZ!BOX open the web interface.
 2. Go Internet->Filters->Lists and click edit "Blocked websites".
 3. Copy and paste the sites from generated sites.txt and save.
+
+![](https://res.cloudinary.com/dn8tmtools78/image/upload/v1679192135/Projects/UrlBlockListGenerator/1.jpg)
 
 ## HOSTS file installation
 
@@ -45,6 +47,10 @@ The generated files can be used to block access to the specified sites on your c
 5. If prompted, choose to replace the existing hosts file.
 6. Open a command prompt as an administrator.
 7. Type ipconfig/flushdns and press Enter or restart your computer.
+
+![](https://res.cloudinary.com/dn8tmtools78/image/upload/v1679192135/Projects/UrlBlockListGenerator/5.jpg)
+
+![](https://res.cloudinary.com/dn8tmtools78/image/upload/v1679192135/Projects/UrlBlockListGenerator/4.jpg)
 
 ---
 ## Collaboration
