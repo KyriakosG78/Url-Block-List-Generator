@@ -26,7 +26,7 @@ To use Url Block List Generator, simply follow these steps:
 
 The generated files can be used to block access to the specified sites on your computer.
 
-![](https://www.dropbox.com/s/s5p8a120bgayjmk/3.jpg?dl=0)
+![(https://res.cloudinary.com/dn8tmtools78/image/upload/v1679192135/Projects/UrlBlockListGenerator/3.jpg)
 
 ---
 ## Modem-Routers
